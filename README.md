@@ -1,11 +1,6 @@
 # Mobile-Addiction-Analysis
             📓 Project Notebook
 
-"View Customer Churn Prediction Notebook" (
-                https://github.com/sifatshariar50/Customer-Churn-Prediction/blob/main/customer-s-behavior-and-churn-prediction.ipynb
-Customer-Churn-Prediction/customer-s-behavior-and-churn-prediction.ipynb at main · sifatshariar50/Customer-Churn-Prediction
-GitHub
-You sent
 📱 Mobile Addiction Analysis
 
 📌 Project Overview
